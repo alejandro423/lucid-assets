@@ -133,7 +133,7 @@ public class MenuController : MonoBehaviour
 
     public void Jugar()
     {
-        SceneManager.LoadScene("Juego");
+        SceneManager.LoadScene("SeleccionNivel");
     }
 
     public void Ajustes()
